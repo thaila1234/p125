@@ -1,0 +1,27 @@
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+    box-shadow: 3px 3px 3px purple;
+}
+
+.aviso{
+    font-size: 16px;
+    color: black;
+}
+
+.copyRightFooter{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    color: black;
+    background-color: rgb(207, 204, 204);
+    line-height: 30px;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 6px 6px 6px rgb(74, 74, 202);
+}
